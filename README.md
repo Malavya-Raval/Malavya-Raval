@@ -6,6 +6,10 @@ During an internship where I worked with Java, I was the team lead and utilized 
 Outside of academics, I enjoy playing football, PC gaming, and cycling.
 I also have experience working with an NGO in India, and am interested in collaborating on any projects that will allow me to learn and grow.
 
+
+[![Malavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malavya-Raval)](https://github.com/Malavya-Raval/github-readme-stats)
+
+
 <!--
 **Malavya-Raval/Malavya-Raval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
