@@ -1,6 +1,7 @@
 # Malavya Raval
 
 ### Hello there 👋
+
 I am a graduate international student in Computer Science at San Francisco State University.
 I have experience working on my website and various database projects, using languages such as Java, Python, HTML, CSS, JavaScript, and SQL. 
 Additionally, I have completed over 100 LeetCode questions to further improve my skills. 
