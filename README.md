@@ -10,8 +10,8 @@ Outside of academics, I enjoy playing football, PC gaming, and cycling.
 I also have experience working with an NGO in India, and am interested in collaborating on any projects that will allow me to learn and grow.
 
 
-[![Malavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malavya-Raval)](https://github.com/Malavya-Raval/github-readme-stats)
-
+![Malavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malavya-Raval)
+![Malavya's GitHub top-Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Malavya-Raval&theme=algolia&hide_border=true)
 ## 🛠 Languages and Tools
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
